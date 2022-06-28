@@ -2,8 +2,10 @@
 tags:
   - OKR
 ---
-
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 # What is an OKR? Definition and Examples
+
+Author: John Katimbo Date: 28th June 2022
 
 ## Summary
 
