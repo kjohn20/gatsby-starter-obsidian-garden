@@ -1,15 +1,15 @@
 module.exports = {
-  url: "https://notes.desktopofsamuel.com",
+  url: "https://jobsjaja.com",
   pathPrefix: "",
-  SITE_TITLE: "Obsidian Garden",
-  SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
+  SITE_TITLE: "Jobs Jaja",
+  SITE_SUBTITLE: "Jobs jaja - just as it sounds",
   SITE_DESCRIPTION:
-    "A Gatsby starter template to publish Obsidian vault for free",
-  KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
+    "Jobs jaja - just as it sounds",
+  KEYWORDS: "jobs, remote jobs, quick jobs finder, jobs jaja",
   HERO_TITLE:
     "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
   HERO_SUBTITLE: "Designed by JUXT Design",
-  COPYRIGHT: "JUXT Design",
+  COPYRIGHT: "Gasheer LLC",
   LOCALE: "en",
   POST_PER_PAGE: 6,
   MENU: [
